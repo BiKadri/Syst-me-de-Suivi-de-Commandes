@@ -23,12 +23,13 @@ Cette application frontend permet aux utilisateurs de suivre des commandes, de m
    cd suivi-commandes-frontend
    
 2. Installez les dépendances :
-npm install
-Lancez l'application :
-npm run serve
-Accédez à l'application à l'adresse http://localhost:8080.
+   ```bash npm install
+   
+3. Lancez l'application :
+   ```bash npm run serve
 
-3. Contribuer
+4. Accédez à l'application à l'adresse http://localhost:8080.
+
 Les contributions sont les bienvenues ! Veuillez soumettre une pull request avec des commentaires sur les modifications.
 
 @BiKadri
